@@ -40,6 +40,8 @@ sheet["A"]
 for cell in sheet['A']:
     a_zn=(cell.value)
 print(a_zn)
+print ()
+
 
 
 
